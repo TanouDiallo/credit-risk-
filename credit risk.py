@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 # import de données  : 
 
-df = pd.read_csv("https://raw.githubusercontent.com/TanouDiallo/credit-risk-/refs/heads/main/exemple.csv")
+df = pd.read_csv("/workspaces/credit-risk-/exemple.csv")
 
 df.columns
 
